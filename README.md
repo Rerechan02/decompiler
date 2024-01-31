@@ -27,7 +27,7 @@
  - Other Code Decompilers. You can ask first
  ```
 
-<b><details><summary>Contact</summary></b>
+<b><details><summary>Buy Contact</summary></b>
 ## Contact
 [![WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group1-bl.svg?logo=WhatsApp)](https://wa.me/6283120684925)
 [![Telegram Chanel](https://img.shields.io/badge/Join-Telegram%20Chanel-bl.svg?logo=Telegram)](https://t.me/Rerechan02)
