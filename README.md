@@ -3,7 +3,7 @@
   </p>  
   
    <p align="center"> 
-                AUTOSCRIPT 『𝐅𝐍』
+                Decrypt 『𝐅𝐍』
    </p>
   
   <p align="center">  
